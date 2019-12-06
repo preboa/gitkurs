@@ -1,2 +1,2 @@
-print("Hallo kalzun")
+print("Hallo kalzun og Johanna")
 
