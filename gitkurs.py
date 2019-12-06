@@ -4,4 +4,5 @@ def moon:
 	pass
 
 print("Hallo kalzun og Johanna")
+print("Bye")
 
